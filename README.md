@@ -16,5 +16,5 @@ python csv2plot.py --path=heart_data \
 ## TODO
 
 - [x] line plot
-- [_] bar plot
-- [_] scatter plot
+- [ ] bar plot
+- [ ] scatter plot
