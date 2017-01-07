@@ -11,7 +11,7 @@ python csv2plot.py --path=heart_data \
     --value-column='Heart rate' \
 ```
 
-![plot](http://github.com/gaving/cvs2plot/raw/master/site/1.png)
+![plot](http://github.com/gaving/csv2plot/raw/master/site/1.png)
 
 ## TODO
 
